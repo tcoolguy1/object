@@ -23,3 +23,7 @@ function gotResult(error,results) {
     }
     console.log(results);
 }
+
+function back() {
+    window.location = "index.html";
+}
