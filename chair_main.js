@@ -2,7 +2,7 @@ img = "";
 status1="";
 
 function preload() {
-    img = loadImage("https://i.postimg.cc/vHhBG8rd/air-conditioner.jpg");
+    img = loadImage("https://i.postimg.cc/2j2R61KT/chair.jpg");
 }
 function setup()
 {
